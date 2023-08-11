@@ -41,15 +41,6 @@
             android:layout_marginTop="26dp"
             android:text="ToggleButton" />
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="13dp"
-            app:srcCompat="@drawable/livnoni_logo" />
-
 
     </RelativeLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
